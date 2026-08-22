@@ -5,21 +5,70 @@
   <link href="https://cuihuan.github.io/awesome-ai-gateway/" />
   <link rel="self" type="application/atom+xml" href="https://cuihuan.github.io/awesome-ai-gateway/feed.xml" />
   <id>https://cuihuan.github.io/awesome-ai-gateway/feed.xml</id>
-  <updated>2026-08-21T00:27:05Z</updated>
+  <updated>2026-08-22T00:58:45Z</updated>
   <author><name>Awesome AI Gateway</name></author>
+  <entry>
+    <title>tashfeenahmed/freellmapi v0.8.5</title>
+    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.8.5" />
+    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.8.5</id>
+    <updated>2026-08-22T00:58:45Z</updated>
+    <summary>tashfeenahmed/freellmapi released v0.8.5.</summary>
+  </entry>
+  <entry>
+    <title>envoyproxy/ai-gateway v1.1.0</title>
+    <link href="https://github.com/envoyproxy/ai-gateway/releases/tag/v1.1.0" />
+    <id>https://github.com/envoyproxy/ai-gateway/releases/tag/v1.1.0</id>
+    <updated>2026-08-21T18:23:16Z</updated>
+    <summary>envoyproxy/ai-gateway released v1.1.0.</summary>
+  </entry>
+  <entry>
+    <title>router-for-me/CLIProxyAPI v7.2.139</title>
+    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v7.2.139" />
+    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v7.2.139</id>
+    <updated>2026-08-21T17:21:05Z</updated>
+    <summary>router-for-me/CLIProxyAPI released v7.2.139.</summary>
+  </entry>
+  <entry>
+    <title>ENTERPILOT/GoModel v0.1.80</title>
+    <link href="https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.80" />
+    <id>https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.80</id>
+    <updated>2026-08-21T16:01:37Z</updated>
+    <summary>ENTERPILOT/GoModel released v0.1.80.</summary>
+  </entry>
+  <entry>
+    <title>askalf/dario v5.5.43</title>
+    <link href="https://github.com/askalf/dario/releases/tag/v5.5.43" />
+    <id>https://github.com/askalf/dario/releases/tag/v5.5.43</id>
+    <updated>2026-08-21T11:27:55Z</updated>
+    <summary>askalf/dario released v5.5.43.</summary>
+  </entry>
+  <entry>
+    <title>seakee/CPA-Manager-Plus v1.12.2</title>
+    <link href="https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.12.2" />
+    <id>https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.12.2</id>
+    <updated>2026-08-21T10:21:53Z</updated>
+    <summary>seakee/CPA-Manager-Plus released v1.12.2.</summary>
+  </entry>
+  <entry>
+    <title>lidge-jun/opencodex v2.29.0</title>
+    <link href="https://github.com/lidge-jun/opencodex/releases/tag/v2.29.0" />
+    <id>https://github.com/lidge-jun/opencodex/releases/tag/v2.29.0</id>
+    <updated>2026-08-21T09:59:34Z</updated>
+    <summary>lidge-jun/opencodex released v2.29.0.</summary>
+  </entry>
+  <entry>
+    <title>fruitbars/simple-one-api v0.10.4</title>
+    <link href="https://github.com/fruitbars/simple-one-api/releases/tag/v0.10.4" />
+    <id>https://github.com/fruitbars/simple-one-api/releases/tag/v0.10.4</id>
+    <updated>2026-08-21T04:41:18Z</updated>
+    <summary>fruitbars/simple-one-api released v0.10.4.</summary>
+  </entry>
   <entry>
     <title>tsouth89/toolport v1.15.0</title>
     <link href="https://github.com/tsouth89/toolport/releases/tag/v1.15.0" />
     <id>https://github.com/tsouth89/toolport/releases/tag/v1.15.0</id>
     <updated>2026-08-21T00:27:05Z</updated>
     <summary>tsouth89/toolport released Toolport v1.15.0.</summary>
-  </entry>
-  <entry>
-    <title>askalf/dario v5.5.41</title>
-    <link href="https://github.com/askalf/dario/releases/tag/v5.5.41" />
-    <id>https://github.com/askalf/dario/releases/tag/v5.5.41</id>
-    <updated>2026-08-20T23:48:39Z</updated>
-    <summary>askalf/dario released v5.5.41.</summary>
   </entry>
   <entry>
     <title>kgateway-dev/kgateway v2.4.3</title>
@@ -29,32 +78,11 @@
     <summary>kgateway-dev/kgateway released v2.4.3.</summary>
   </entry>
   <entry>
-    <title>tashfeenahmed/freellmapi v0.8.4</title>
-    <link href="https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.8.4" />
-    <id>https://github.com/tashfeenahmed/freellmapi/releases/tag/v0.8.4</id>
-    <updated>2026-08-20T21:07:05Z</updated>
-    <summary>tashfeenahmed/freellmapi released v0.8.4.</summary>
-  </entry>
-  <entry>
-    <title>ENTERPILOT/GoModel v0.1.79</title>
-    <link href="https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.79" />
-    <id>https://github.com/ENTERPILOT/GoModel/releases/tag/v0.1.79</id>
-    <updated>2026-08-20T14:22:45Z</updated>
-    <summary>ENTERPILOT/GoModel released v0.1.79.</summary>
-  </entry>
-  <entry>
     <title>krakend/krakend-ce v2.13.10</title>
     <link href="https://github.com/krakend/krakend-ce/releases/tag/v2.13.10" />
     <id>https://github.com/krakend/krakend-ce/releases/tag/v2.13.10</id>
     <updated>2026-08-20T10:43:44Z</updated>
     <summary>krakend/krakend-ce released v2.13.10.</summary>
-  </entry>
-  <entry>
-    <title>lidge-jun/opencodex v2.28.0</title>
-    <link href="https://github.com/lidge-jun/opencodex/releases/tag/v2.28.0" />
-    <id>https://github.com/lidge-jun/opencodex/releases/tag/v2.28.0</id>
-    <updated>2026-08-20T09:42:40Z</updated>
-    <summary>lidge-jun/opencodex released v2.28.0.</summary>
   </entry>
   <entry>
     <title>apache/apisix 3.18.0</title>
@@ -90,13 +118,6 @@
     <id>https://github.com/smart-mcp-proxy/mcpproxy-go/releases/tag/v0.59.0</id>
     <updated>2026-08-19T19:00:35Z</updated>
     <summary>smart-mcp-proxy/mcpproxy-go released v0.59.0.</summary>
-  </entry>
-  <entry>
-    <title>router-for-me/CLIProxyAPI v7.2.137</title>
-    <link href="https://github.com/router-for-me/CLIProxyAPI/releases/tag/v7.2.137" />
-    <id>https://github.com/router-for-me/CLIProxyAPI/releases/tag/v7.2.137</id>
-    <updated>2026-08-19T18:26:19Z</updated>
-    <summary>router-for-me/CLIProxyAPI released v7.2.137.</summary>
   </entry>
   <entry>
     <title>archestra-ai/archestra platform-v1.3.42</title>
@@ -155,13 +176,6 @@
     <summary>QuantumNous/new-api released v1.0.0-rc.25.</summary>
   </entry>
   <entry>
-    <title>seakee/CPA-Manager-Plus v1.12.1</title>
-    <link href="https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.12.1" />
-    <id>https://github.com/seakee/CPA-Manager-Plus/releases/tag/v1.12.1</id>
-    <updated>2026-08-18T06:12:03Z</updated>
-    <summary>seakee/CPA-Manager-Plus released v1.12.1.</summary>
-  </entry>
-  <entry>
     <title>bestruirui/octopus v0.10.3</title>
     <link href="https://github.com/bestruirui/octopus/releases/tag/v0.10.3" />
     <id>https://github.com/bestruirui/octopus/releases/tag/v0.10.3</id>
@@ -197,24 +211,10 @@
     <summary>RelayPlane/proxy released v1.9.46.</summary>
   </entry>
   <entry>
-    <title>fruitbars/simple-one-api v0.10.3</title>
-    <link href="https://github.com/fruitbars/simple-one-api/releases/tag/v0.10.3" />
-    <id>https://github.com/fruitbars/simple-one-api/releases/tag/v0.10.3</id>
-    <updated>2026-08-16T17:56:48Z</updated>
-    <summary>fruitbars/simple-one-api released v0.10.3.</summary>
-  </entry>
-  <entry>
     <title>BerriAI/litellm v1.97.0</title>
     <link href="https://github.com/BerriAI/litellm/releases/tag/v1.97.0" />
     <id>https://github.com/BerriAI/litellm/releases/tag/v1.97.0</id>
     <updated>2026-08-16T02:51:04Z</updated>
     <summary>BerriAI/litellm released v1.97.0.</summary>
-  </entry>
-  <entry>
-    <title>ai-dynamo/dynamo v1.4.0</title>
-    <link href="https://github.com/ai-dynamo/dynamo/releases/tag/v1.4.0" />
-    <id>https://github.com/ai-dynamo/dynamo/releases/tag/v1.4.0</id>
-    <updated>2026-08-15T22:13:28Z</updated>
-    <summary>ai-dynamo/dynamo released Dynamo v1.4.0.</summary>
   </entry>
 </feed>
